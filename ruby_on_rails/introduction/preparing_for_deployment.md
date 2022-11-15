@@ -6,7 +6,7 @@ We have one thing to attend to before progressing in our web development journey
 
 ### Important! 
 
-Starting November 22, 2022, Heroku will stop offering their free product plans (which includes deployment). You can read more on [their blog post](https://blog.heroku.com/next-chapter).
+Starting November 28, 2022, Heroku will stop offering their free product plans (which includes deployment). You can read more on [their blog post](https://blog.heroku.com/next-chapter).
 
 We will be replacing the following instructions with an alternative soon.
 
